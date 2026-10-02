@@ -3,9 +3,9 @@ using namespace std;
 int num = 10;
 int main()
 {
-    cout << "num="<< num << endl;
-    cout << "int所占空间为:"<< sizeof(int) << "字节" << endl;
-    cout << "num所占空间为:"<< sizeof(num) << "字节" << endl;
+    cout << "num=" << num << endl;
+    cout << "int鎵�鍗犵┖闂翠负:" << sizeof(int) << "瀛楄妭" << endl;
+    cout << "num鎵�鍗犵┖闂翠负:" << sizeof(num) << "瀛楄妭" << endl;
     system("pause");
     return 0;
 }
